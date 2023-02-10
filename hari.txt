@@ -1,0 +1,101 @@
+Hello, everyone, and welcome to this coding club class, namely numpy  one of the best lookin fields of the year 2023, and this field is expected to grow exponentially in the coming years if you want to become a data scientist, ML Engineer,Ai specialist,etc....
+
+It is very important that you are very aware of the language used in this field, namely Python and 
+the libraries used, which comes integrated with the language.
+
+So moving on, there are many, many libraries in Python that are used in this field, such as matplotlib etc..
+
+
+If you want to become a successful data scientist , ML Engineer,Etc..., it is very important that you have a good knowledge of how to use these libraries so that you can play well with the data.
+
+Because right now data is the thing.
+
+If you know how to use the data, you can very well done that.
+
+So, in this coding club lesson, we will be learning about the numpy library.
+
+
+
+
+What exactly is data scientist?
+
+
+the job is to convert raw data into a valuable one, using different tools, algorithms and libraries, and everyone knows how to extract the right data that is valuable and useful for a company's business.
+
+This can shoot the business of the company and times hence this is one of the most demanded fields.
+
+
+If you look 10 years back, this field was not much in box, but right now it is in talks.
+
+The reason being, we have data, we have years of data, and all you need is a skill to extract the
+
+valuable information which can be used for the growth of a company or a business.
+
+Moving on.
+
+
+
+What exactly is a no no is a Python library, but what is the use of this library?
+
+
+
+So this library is basically used for scientific computing.
+
+This library contains awful, multi-dimensional array objects.
+
+Now it is important to know what exactly is in array.
+
+In simple words, that is a data structure that stores or contains group of elements.
+
+
+
+And this package gives you a powerful, multidimensional area, objects which can be used for various tasks.
+
+Now, those tasks would include mathematical operations, manipulations, sorting and various other operations.
+
+
+
+
+Intro to numpy 
+
+
+Numpy offers: 
+
+POWERFUL N-DIMENSIONAL ARRAYS
+
+Fast and versatile, the NumPy vectorization, indexing, and broadcasting concepts are the de-facto standards of array computing today.
+
+NUMERICAL COMPUTING TOOLS
+
+NumPy offers comprehensive mathematical functions, random number generators, linear algebra routines, Fourier transforms, and more.
+
+INTEROPERABLE
+
+NumPy supports a wide range of hardware and computing platforms and plays well with distributed, GPU, and sparse array libraries.
+
+PERFORMANT
+
+The core of NumPy is a well-optimized C code. Enjoy the flexibility of Python with the speed of compiled code.
+
+
+
+
+
+numpy vs python list
+
+
+The Python code library provides a list, a list as a python equivalent of numpy,But it is sizable and can contain elements of different types.
+
+A common question that can arise is what is the real difference between them then?
+
+The answer is performance.
+
+Numpy data structure takes up less space and provides better and time behavior by comparing with python.
+
+ python Don't store elements in a continuous memory location are like priorities.Hence, additional space is required to store the references of these elements.
+
+
+numpy also provides optimized functions such as linear algebra operations, which are already built in.
+
+
+the real difference between numpy and python list .both can store different data types and index manner but numpy datastructure is ordered its store in one by one ordered memory locations but python doesnot store in order memory location or continuous memeory location .
