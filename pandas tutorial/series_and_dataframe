@@ -2,3 +2,25 @@ import pandas as pd
 num = [1,2,3,4,5]
 series = pd.Series(num)
 print(series)
+
+
+student = { 'Id': 100, 'Name': 'Albert', 'State': 'Texas','Age': 24}
+ 
+res = pd.Series(student)
+print(res)
+
+
+data = {
+    'mango': [2, 4, 5, 1], 
+    'grapes': [1, 4, 8, 3],
+    'apples': [3, 5, 7, 3]
+}
+print(data)
+
+#create dataframe 
+
+fruits = pd.DataFrame(data)
+print(fruits)
+
+fruits = pd.DataFrame(data, index=['Rakesh', 'Robin', 'Julie', 'Albert'])
+print(fruits)
