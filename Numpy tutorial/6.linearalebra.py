@@ -11,7 +11,7 @@ import numpy as np
 
 # Find the determinant
 c = np.identity(5)
-np.linalg.det(c)
+print(np.linalg.det(c))
 
 coeffs  = np.array([[2, 6], [5, 3]])
 dependentvars = np.array([6, -9])

@@ -19,7 +19,7 @@ print(a.shape)
 print(b.shape)
 print('rows and columns',c.shape)
 
-#get type of the array
+#get type of the array we use astype(float) to convert to float
 print('the type of the array')
 print(a.dtype)
 print(b.dtype)
