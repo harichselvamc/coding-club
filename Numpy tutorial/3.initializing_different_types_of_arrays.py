@@ -27,26 +27,10 @@ r1 = np.repeat(arr,3,axis=0)#the axis along with the repeated values,by default 
 print(r1)
 
 # Get Array from range of values
-evenNumbers= np.arange(10,50,2)
+evenNumbers= np.arange(10,50,2) # start stop and steps of the arguments
+
 print(evenNumbers)
 
 
-a = np.array([1,2,3,4,5,6])
-b = a
-print("Original Array",a)
-print("So Called Copied Array",b)
 
-b[0] = 100
-print("Original Array",a)
-print("So Called Copied Array",b)
-
-
-c = np.array([1,2,3,4,5,6])
-d = c.copy()
-print("Original Array",c)
-print("Copied Array",d)
-c[0]=100
-print("After Updating...")
-print("Original Array",c)
-print("Copied Array",d)
 
